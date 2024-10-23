@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url(images/train-station-dario-puebla.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    background-color: aliceblue;
+    width: 60%;
+    margin: 3rem auto 2rem auto;
+    padding: 2rem 0;
+}
+#count-el{
+    background-color: aliceblue;
+    width: 10%;
+    margin: 2rem auto;
+    padding: 1rem 0;
+    font-size: 50px;
+}
+#increment-btn{
+    background-color: blue;
+    color: aliceblue;
+    font-size: 20px;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
