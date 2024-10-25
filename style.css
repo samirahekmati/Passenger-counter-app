@@ -18,10 +18,21 @@ h1 {
     padding: 1rem 0;
     font-size: 50px;
 }
-#increment-btn{
-    background-color: blue;
+button{
     color: aliceblue;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-radius: 5px;
     font-size: 20px;
-    padding: 10px 20px;
-    border-radius: 10px;
+    width: 200px;
+}
+#increment-btn{
+    background-color: rgb(69, 109, 188);
+}
+#save-btn {
+    display: block;
+    margin: 0.3rem auto;
+    background-color: brown;
 }
